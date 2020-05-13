@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Gor\C#\MIC\EnumExamples\EnumExamples\bin\Debug\netcoreapp2.2\EnumExamples.deps.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\EnumExamples\EnumExamples\bin\Debug\netcoreapp2.2\EnumExamples.runtimeconfig.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\EnumExamples\EnumExamples\bin\Debug\netcoreapp2.2\EnumExamples.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\EnumExamples\EnumExamples\bin\Debug\netcoreapp2.2\EnumExamples.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\EnumExamples\EnumExamples\bin\Debug\netcoreapp2.2\EnumExamples.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\EnumExamples\EnumExamples\obj\Debug\netcoreapp2.2\EnumExamples.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\EnumExamples\EnumExamples\obj\Debug\netcoreapp2.2\EnumExamples.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\EnumExamples\EnumExamples\obj\Debug\netcoreapp2.2\EnumExamples.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\EnumExamples\EnumExamples\obj\Debug\netcoreapp2.2\EnumExamples.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\EnumExamples\EnumExamples\obj\Debug\netcoreapp2.2\EnumExamples.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\EnumExamples\EnumExamples\obj\Debug\netcoreapp2.2\EnumExamples.pdb
